@@ -1,1 +1,1 @@
-echo Let's see Today Date `date`
+echo Today Date `date`
