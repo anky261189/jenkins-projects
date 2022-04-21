@@ -1,1 +1,1 @@
-echo Today is `date`
+echo Today Date is `date`
