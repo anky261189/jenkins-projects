@@ -1,1 +1,1 @@
-echo Let's see Today Date:: `date`
+echo Let's see Today Date `date`
